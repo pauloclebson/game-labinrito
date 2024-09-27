@@ -11,15 +11,18 @@ config_version=5
 [application]
 
 config/name="Jogo-labinrito"
+run/main_scene="res://character/scenes/character.tscn"
 config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.svg"
 
 [display]
 
-window/size/viewport_width=1280
-window/size/viewport_height=720
-window/size/window_width_override=640
-window/size/window_height_override=480
+window/size/viewport_width=860
+window/size/viewport_height=620
+window/size/initial_position_type=0
+window/stretch/mode="viewport"
+window/stretch/aspect="expand"
+window/stretch/scale=1.23
 
 [editor_plugins]
 
