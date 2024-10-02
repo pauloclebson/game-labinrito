@@ -21,8 +21,6 @@ window/size/viewport_width=860
 window/size/viewport_height=620
 window/size/initial_position_type=0
 window/stretch/mode="viewport"
-window/stretch/aspect="expand"
-window/stretch/scale=1.23
 
 [editor_plugins]
 
